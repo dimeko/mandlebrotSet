@@ -68,7 +68,7 @@ func representation(points plotter.XYZs) {
 }
 
 func main() {
-	fmt.Println("Mandlebrot set is starting!")
+	fmt.Println("Calculating set!")
 
 	cx := -2.20
 	cy := -2.20
